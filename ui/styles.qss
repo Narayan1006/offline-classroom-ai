@@ -1,0 +1,60 @@
+/* 🌈 Overall App Background */
+QMainWindow {
+    background-color: #f2f7ff;
+}
+
+/* 📝 Text */
+QLabel {
+    color: #1f2937;
+    font-size: 14px;
+}
+
+/* 📘 Section Titles */
+QLabel#sectionTitle {
+    font-size: 18px;
+    font-weight: bold;
+    color: #1d4ed8;
+}
+
+/* 🧠 Chat Box */
+QTextEdit {
+    background-color: #ffffff;
+    border: 2px solid #c7d2fe;
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+/* 🧒 Input Box */
+QTextEdit#inputBox {
+    background-color: #fff7ed;
+    border: 2px solid #fdba74;
+    border-radius: 12px;
+    font-size: 14px;
+}
+
+/* 📚 Concept List */
+QListWidget {
+    background-color: #ffffff;
+    border: 2px solid #bfdbfe;
+    border-radius: 12px;
+    font-size: 14px;
+}
+
+/* 🟦 Buttons */
+QPushButton {
+    background-color: #3b82f6;
+    color: white;
+    border-radius: 14px;
+    padding: 12px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: #2563eb;
+}
+
+QPushButton:pressed {
+    background-color: #1e40af;
+}

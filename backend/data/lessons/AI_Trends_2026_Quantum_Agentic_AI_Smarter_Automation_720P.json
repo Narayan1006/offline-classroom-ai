@@ -1,0 +1,873 @@
+{
+  "video": "C:/Users/singh/Downloads/AI_Trends_2026_Quantum_Agentic_AI_Smarter_Automation_720P.mp4",
+  "transcript": " What will be the most important trends in AI in 2026?  Well, we take a stab at this every year with some success, I would say.  And this time out, I have the knowledgeable assistance of my colleague Aaron Bogh,  who went to help us out.  Well, yeah, you know, after your prediction of infinite memory last year,  I thought maybe you could use just a little bit of help.  Yeah, that's fair.  Well, how about we each take four trends each?  That sounds good.  How about you first?  All right, OK, so my number one trend of 2026 is multi-agent orchestration.  Now, last year, we said 2025 was the year of the agent.  AI agents that can reason and plan and take action on a task.  And agents, I think it's fair to say, really delivered.  There are numerous agent platforms for tasks like coding and basic computer use.  But no single agent really excels at everything.  So what if you had a whole team of agents working together?  So maybe we've got an agent here that kind of acts as a planner agent  that decomposes goals into steps.  Maybe we have some worker agents here that do different steps,  like one specializes in writing code, others call APIs and so forth.  And then perhaps we have a critic agent that evaluates outputs and flags issues.  And these agents collaborate under a coordinating layer that is the orchestrator.  Multi-agent setups like this help introduce cross-checking,  where one agent checks the other agent's work,  and it can break problems into more discrete verifiable steps.  Well, great. So how can I really follow that trend?  Well, I think I might just have one.  So the second one is going to be the digital labor workforce.  So now these are digital workers that are autonomous agents that can do a couple of items.  So the first one is they can parse a task by interpreting multimodal input.  So after preparation, the worker then executes what's called a workflow.  Now, this is where at the end of an action plan,  you know, it would follow a sequence of steps,  but then it has to be integrated into some sort of system that then in turn can take action.  And these can be downstream components.  Now, these systems are then further enhanced by what we call human and the loop AI,  which then provides a couple of items.  The first one would be oversight.  The next one would be correction.  And then we're looking at these strategic guidance or these rails  to ensure that all of these agents are doing what they're supposed to be doing.  Now, this overall trend will create a force multiplying effect to extend human capability.  Now, trend number three is physical AI.  Now, we all know that large language models, they generate text like ABC.  And then there are other models as well.  So for example, there are plenty of diffusion image models and they generate pixels.  They generate images.  These are all operating in digital space.  Now, physical AI is about models that understand and interact  with the world that we live in, the real 3D world.  And this is about models that can perceive their environment, reason about physics,  and that can take physical action like robotics.  So previously getting a robot like this to do something useful meant programming explicit rules.  So if you see an obstacle, you should turn left, for example.  And it was all done by humans.  It was up to, yeah, smart guys like this to code these rules.  Now, physical AI kind of flips that around.  So you train models in simulation that simulate the real world.  And it learns to understand how objects behave in the physical world,  how gravity works, how to grasp something without crushing it.  Now, these models are sometimes called world foundation models.  They're generative models that can create and understand 3D environments.  They can predict what happens next in a physical scene.  And in 2026, many of these world models are taking things like those humanoid robots  that you found there, Aaron, and they're taking them from research to commercial production.  Physical AI is scaling.  Well, Martin, you just took my trend.  But let's just go ahead and say number four is about social computing.  Now, this is a world where many agents and humans operate within the shared AI fabric.  So say if I have an agent here and then a human here.  So they're going to be connected through this fabric.  And here, if I have information that flows between the two,  they begin to understand each other.  And then they can gather what the intent is going to be.  And then once they have the intent and information, they have actions.  They can affect each other or maybe even the environment of which they're in.  But all of this flows seamlessly across this system.  It's the shared space that enables collaboration, context exchange,  as well as event-effective understanding.  Now, the outcome is really an empathetic emergent network of these interactions.  It's what we call this collective intelligence or this real-world swarm computing.  So teams of agents, digital labor, humanoid robots,  and tech that can understand me with effective computing.  2026 could be quite the year and we're only halfway through the trends.  So trend number five, that is verifiable AI.  The EU AI Act is coming and by mid-2026, it becomes fully applicable.  And think of this a little bit like GDPR, but for artificial intelligence.  Now, the core idea here is that AI systems, especially high-risk ones,  need to be auditable and they also need to be traceable.  Now, what does that mean?  Well, it means a few things.  It means documentation.  So if you're building high-risk AI, you need technical docs  that demonstrate compliance to how you tested the models  and the risks that you identified.  It means transparency.  So users need to know when they're interacting with the machine.  So things like synthetic text, they need to be clearly labeled.  And it means data lineage.  You need to be able to summarize where your training data came from  and prove you respected copyright opt-outs.  And just like how GDPR has shaped global privacy, not just folks in the EU,  the EU AI Act will probably set the template for AI governance worldwide.  Wow, that's great.  And, you know, trend number six, right, it really changes everything,  but it also changes nothing at the same time.  And now this is where we put in quantum utility everywhere.  So 2026 is where we start to see this quantum computing  to reliably start solving real-world problems better, faster,  or more efficiently than classical computing methods.  Now at this point, we have this quantum utility scale.  It's these systems that begin working alongside and together  with classical infrastructure to deliver these practical value in everyday workflows.  Now this is going to help with optimization.  And then we'll also look at simulation and decision-making.  Now all three of these tasks were previously out of reach  within the classical realm.  But this hybrid quantum classical error,  it will begin to transform quantum computing into this mainstream paradigm  as it's going to be woven into our everyday business operations.  Now my trend number seven is reasoning at the edge.  Now, last year we talked about very small models,  models with just a few billion parameters  that don't need huge data centers to run.  They work on your laptop or maybe even your phone.  Well, in 2026, those small models are learning to think.  So if we think about the best models that we have today, the frontier models,  well, pretty much all of them now use something called inference time compute.  They spend extra time thinking before giving you an answer,  working through problems step by step.  Now the trade-off for that is they need more compute.  But here's what's changing.  Essentially, teams have figured out how they can distill  all of this reasoning information into smaller models.  So now these smaller models can perform thinking as well.  You're taking massive reasoning models that generate tons of step by step solutions  and we're using that data to train the smaller models to reason the same way.  And that's resulting in reasoning models with only a few billion parameters.  They work offline, your data never leaves your device,  and there's no round-trip latency to a data center.  So for anything that's real-time or mission-critical,  having a model that can actually reason through a problem locally is a pretty big deal.  Yeah, so that's all very true, Martin.  But now our last and final trend is number eight.  So this is what we're calling amorphous hybrid computing.  So this is a future where both AI model topologies and the cloud infrastructure,  they blend into what's called a fluid computing backbone.  So AI models, they're shifting beyond just this pure transformer design, right?  They're beginning to evolve into these other architectures that integrate transformers  and we call them the state space models.  And then in 2026, you're also going to see different emerging algorithms  that would combine both the state space and transformers and other elements together, right?  And that's going to be really fun to watch, very artful.  And then at the same time, we have this cloud computing piece  that's becoming fully differentiated by combining many different chip types.  So we're going to have CPUs, GPUs, TPUs as well.  And finally, what we just talked about in trend six, quantum, we're going to have QPUs.  I did also want to mention a note that you'll see these neuromorphic chips that are coming out  and those emulate the brain.  But all of these are going to be put together right into this unified compute environment  where parts of each of these types of models,  they're going to be automatically mapped to the optimal compute substrate.  And this is really going to help to deliver this maximum performance and efficiency.  And you know what? Who knows?  But at this pace, probably not in 2026, but I think further out,  you might see DNA computing entering into the mix.  Well, those are some lofty goals.  And look, these are what we think are some of the biggest AI trends in 2026.  But what are we missing?  Which AI trend do you expect to be a big deal in 2026?  Yeah, let us know in the comments below.",
+  "topics": [
+    "These",
+    "Going",
+    "Trend",
+    "Agent",
+    "Computing"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": " What will be the most important trends in AI in 2026?"
+    },
+    {
+      "start": 4.8,
+      "end": 8.8,
+      "text": " Well, we take a stab at this every year with some success, I would say."
+    },
+    {
+      "start": 8.8,
+      "end": 12.8,
+      "text": " And this time out, I have the knowledgeable assistance of my colleague Aaron Bogh,"
+    },
+    {
+      "start": 12.8,
+      "end": 14.6,
+      "text": " who went to help us out."
+    },
+    {
+      "start": 14.6,
+      "end": 18.0,
+      "text": " Well, yeah, you know, after your prediction of infinite memory last year,"
+    },
+    {
+      "start": 18.0,
+      "end": 20.6,
+      "text": " I thought maybe you could use just a little bit of help."
+    },
+    {
+      "start": 20.6,
+      "end": 22.0,
+      "text": " Yeah, that's fair."
+    },
+    {
+      "start": 22.0,
+      "end": 24.8,
+      "text": " Well, how about we each take four trends each?"
+    },
+    {
+      "start": 24.8,
+      "end": 25.6,
+      "text": " That sounds good."
+    },
+    {
+      "start": 25.6,
+      "end": 26.8,
+      "text": " How about you first?"
+    },
+    {
+      "start": 26.8,
+      "end": 35.2,
+      "text": " All right, OK, so my number one trend of 2026 is multi-agent orchestration."
+    },
+    {
+      "start": 35.2,
+      "end": 40.8,
+      "text": " Now, last year, we said 2025 was the year of the agent."
+    },
+    {
+      "start": 40.8,
+      "end": 43.8,
+      "text": " AI agents that can reason and plan and take action on a task."
+    },
+    {
+      "start": 43.8,
+      "end": 46.6,
+      "text": " And agents, I think it's fair to say, really delivered."
+    },
+    {
+      "start": 46.6,
+      "end": 52.0,
+      "text": " There are numerous agent platforms for tasks like coding and basic computer use."
+    },
+    {
+      "start": 52.0,
+      "end": 55.6,
+      "text": " But no single agent really excels at everything."
+    },
+    {
+      "start": 55.6,
+      "end": 59.4,
+      "text": " So what if you had a whole team of agents working together?"
+    },
+    {
+      "start": 59.4,
+      "end": 64.2,
+      "text": " So maybe we've got an agent here that kind of acts as a planner agent"
+    },
+    {
+      "start": 64.2,
+      "end": 67.2,
+      "text": " that decomposes goals into steps."
+    },
+    {
+      "start": 67.2,
+      "end": 72.0,
+      "text": " Maybe we have some worker agents here that do different steps,"
+    },
+    {
+      "start": 72.0,
+      "end": 77.8,
+      "text": " like one specializes in writing code, others call APIs and so forth."
+    },
+    {
+      "start": 77.8,
+      "end": 84.6,
+      "text": " And then perhaps we have a critic agent that evaluates outputs and flags issues."
+    },
+    {
+      "start": 84.60000000000001,
+      "end": 93.4,
+      "text": " And these agents collaborate under a coordinating layer that is the orchestrator."
+    },
+    {
+      "start": 93.4,
+      "end": 96.60000000000001,
+      "text": " Multi-agent setups like this help introduce cross-checking,"
+    },
+    {
+      "start": 96.60000000000001,
+      "end": 100.2,
+      "text": " where one agent checks the other agent's work,"
+    },
+    {
+      "start": 100.2,
+      "end": 104.60000000000001,
+      "text": " and it can break problems into more discrete verifiable steps."
+    },
+    {
+      "start": 104.60000000000001,
+      "end": 107.4,
+      "text": " Well, great. So how can I really follow that trend?"
+    },
+    {
+      "start": 107.4,
+      "end": 109.60000000000001,
+      "text": " Well, I think I might just have one."
+    },
+    {
+      "start": 109.60000000000001,
+      "end": 114.20000000000002,
+      "text": " So the second one is going to be the digital labor workforce."
+    },
+    {
+      "start": 114.2,
+      "end": 119.0,
+      "text": " So now these are digital workers that are autonomous agents that can do a couple of items."
+    },
+    {
+      "start": 119.0,
+      "end": 124.4,
+      "text": " So the first one is they can parse a task by interpreting multimodal input."
+    },
+    {
+      "start": 124.4,
+      "end": 129.8,
+      "text": " So after preparation, the worker then executes what's called a workflow."
+    },
+    {
+      "start": 129.8,
+      "end": 133.4,
+      "text": " Now, this is where at the end of an action plan,"
+    },
+    {
+      "start": 133.4,
+      "end": 135.4,
+      "text": " you know, it would follow a sequence of steps,"
+    },
+    {
+      "start": 135.4,
+      "end": 142.8,
+      "text": " but then it has to be integrated into some sort of system that then in turn can take action."
+    },
+    {
+      "start": 142.8,
+      "end": 145.0,
+      "text": " And these can be downstream components."
+    },
+    {
+      "start": 145.0,
+      "end": 149.3,
+      "text": " Now, these systems are then further enhanced by what we call human and the loop AI,"
+    },
+    {
+      "start": 149.3,
+      "end": 151.4,
+      "text": " which then provides a couple of items."
+    },
+    {
+      "start": 151.4,
+      "end": 153.4,
+      "text": " The first one would be oversight."
+    },
+    {
+      "start": 153.4,
+      "end": 155.10000000000002,
+      "text": " The next one would be correction."
+    },
+    {
+      "start": 155.10000000000002,
+      "end": 158.8,
+      "text": " And then we're looking at these strategic guidance or these rails"
+    },
+    {
+      "start": 158.8,
+      "end": 162.60000000000002,
+      "text": " to ensure that all of these agents are doing what they're supposed to be doing."
+    },
+    {
+      "start": 162.60000000000002,
+      "end": 168.20000000000002,
+      "text": " Now, this overall trend will create a force multiplying effect to extend human capability."
+    },
+    {
+      "start": 168.20000000000002,
+      "end": 173.00000000000003,
+      "text": " Now, trend number three is physical AI."
+    },
+    {
+      "start": 173.00000000000003,
+      "end": 180.3,
+      "text": " Now, we all know that large language models, they generate text like ABC."
+    },
+    {
+      "start": 180.3,
+      "end": 182.20000000000002,
+      "text": " And then there are other models as well."
+    },
+    {
+      "start": 182.20000000000002,
+      "end": 188.50000000000003,
+      "text": " So for example, there are plenty of diffusion image models and they generate pixels."
+    },
+    {
+      "start": 188.50000000000003,
+      "end": 190.00000000000003,
+      "text": " They generate images."
+    },
+    {
+      "start": 190.00000000000003,
+      "end": 193.9,
+      "text": " These are all operating in digital space."
+    },
+    {
+      "start": 193.9,
+      "end": 197.8,
+      "text": " Now, physical AI is about models that understand and interact"
+    },
+    {
+      "start": 197.8,
+      "end": 203.5,
+      "text": " with the world that we live in, the real 3D world."
+    },
+    {
+      "start": 203.5,
+      "end": 209.20000000000002,
+      "text": " And this is about models that can perceive their environment, reason about physics,"
+    },
+    {
+      "start": 209.20000000000002,
+      "end": 214.70000000000002,
+      "text": " and that can take physical action like robotics."
+    },
+    {
+      "start": 214.70000000000002,
+      "end": 221.0,
+      "text": " So previously getting a robot like this to do something useful meant programming explicit rules."
+    },
+    {
+      "start": 221.0,
+      "end": 225.0,
+      "text": " So if you see an obstacle, you should turn left, for example."
+    },
+    {
+      "start": 225.0,
+      "end": 228.6,
+      "text": " And it was all done by humans."
+    },
+    {
+      "start": 228.6,
+      "end": 234.0,
+      "text": " It was up to, yeah, smart guys like this to code these rules."
+    },
+    {
+      "start": 234.0,
+      "end": 237.6,
+      "text": " Now, physical AI kind of flips that around."
+    },
+    {
+      "start": 237.6,
+      "end": 245.3,
+      "text": " So you train models in simulation that simulate the real world."
+    },
+    {
+      "start": 245.3,
+      "end": 248.4,
+      "text": " And it learns to understand how objects behave in the physical world,"
+    },
+    {
+      "start": 248.4,
+      "end": 253.6,
+      "text": " how gravity works, how to grasp something without crushing it."
+    },
+    {
+      "start": 253.6,
+      "end": 259.0,
+      "text": " Now, these models are sometimes called world foundation models."
+    },
+    {
+      "start": 259.0,
+      "end": 263.2,
+      "text": " They're generative models that can create and understand 3D environments."
+    },
+    {
+      "start": 263.2,
+      "end": 266.4,
+      "text": " They can predict what happens next in a physical scene."
+    },
+    {
+      "start": 266.4,
+      "end": 273.3,
+      "text": " And in 2026, many of these world models are taking things like those humanoid robots"
+    },
+    {
+      "start": 273.3,
+      "end": 279.1,
+      "text": " that you found there, Aaron, and they're taking them from research to commercial production."
+    },
+    {
+      "start": 279.1,
+      "end": 281.7,
+      "text": " Physical AI is scaling."
+    },
+    {
+      "start": 281.7,
+      "end": 283.8,
+      "text": " Well, Martin, you just took my trend."
+    },
+    {
+      "start": 283.8,
+      "end": 288.7,
+      "text": " But let's just go ahead and say number four is about social computing."
+    },
+    {
+      "start": 288.7,
+      "end": 293.90000000000003,
+      "text": " Now, this is a world where many agents and humans operate within the shared AI fabric."
+    },
+    {
+      "start": 293.90000000000003,
+      "end": 298.5,
+      "text": " So say if I have an agent here and then a human here."
+    },
+    {
+      "start": 298.5,
+      "end": 301.7,
+      "text": " So they're going to be connected through this fabric."
+    },
+    {
+      "start": 301.7,
+      "end": 305.3,
+      "text": " And here, if I have information that flows between the two,"
+    },
+    {
+      "start": 305.3,
+      "end": 307.59999999999997,
+      "text": " they begin to understand each other."
+    },
+    {
+      "start": 307.59999999999997,
+      "end": 311.3,
+      "text": " And then they can gather what the intent is going to be."
+    },
+    {
+      "start": 311.3,
+      "end": 314.2,
+      "text": " And then once they have the intent and information, they have actions."
+    },
+    {
+      "start": 314.2,
+      "end": 318.9,
+      "text": " They can affect each other or maybe even the environment of which they're in."
+    },
+    {
+      "start": 318.9,
+      "end": 321.9,
+      "text": " But all of this flows seamlessly across this system."
+    },
+    {
+      "start": 321.9,
+      "end": 326.3,
+      "text": " It's the shared space that enables collaboration, context exchange,"
+    },
+    {
+      "start": 326.3,
+      "end": 329.09999999999997,
+      "text": " as well as event-effective understanding."
+    },
+    {
+      "start": 329.1,
+      "end": 333.40000000000003,
+      "text": " Now, the outcome is really an empathetic emergent network of these interactions."
+    },
+    {
+      "start": 333.40000000000003,
+      "end": 338.90000000000003,
+      "text": " It's what we call this collective intelligence or this real-world swarm computing."
+    },
+    {
+      "start": 338.90000000000003,
+      "end": 343.40000000000003,
+      "text": " So teams of agents, digital labor, humanoid robots,"
+    },
+    {
+      "start": 343.40000000000003,
+      "end": 346.6,
+      "text": " and tech that can understand me with effective computing."
+    },
+    {
+      "start": 346.6,
+      "end": 351.6,
+      "text": " 2026 could be quite the year and we're only halfway through the trends."
+    },
+    {
+      "start": 351.6,
+      "end": 358.3,
+      "text": " So trend number five, that is verifiable AI."
+    },
+    {
+      "start": 358.90000000000003,
+      "end": 367.3,
+      "text": " The EU AI Act is coming and by mid-2026, it becomes fully applicable."
+    },
+    {
+      "start": 367.3,
+      "end": 372.6,
+      "text": " And think of this a little bit like GDPR, but for artificial intelligence."
+    },
+    {
+      "start": 372.6,
+      "end": 377.0,
+      "text": " Now, the core idea here is that AI systems, especially high-risk ones,"
+    },
+    {
+      "start": 377.0,
+      "end": 381.2,
+      "text": " need to be auditable and they also need to be traceable."
+    },
+    {
+      "start": 381.2,
+      "end": 382.5,
+      "text": " Now, what does that mean?"
+    },
+    {
+      "start": 382.5,
+      "end": 384.0,
+      "text": " Well, it means a few things."
+    },
+    {
+      "start": 384.0,
+      "end": 385.8,
+      "text": " It means documentation."
+    },
+    {
+      "start": 385.8,
+      "end": 389.8,
+      "text": " So if you're building high-risk AI, you need technical docs"
+    },
+    {
+      "start": 389.8,
+      "end": 393.5,
+      "text": " that demonstrate compliance to how you tested the models"
+    },
+    {
+      "start": 393.5,
+      "end": 395.8,
+      "text": " and the risks that you identified."
+    },
+    {
+      "start": 395.8,
+      "end": 398.1,
+      "text": " It means transparency."
+    },
+    {
+      "start": 398.1,
+      "end": 401.5,
+      "text": " So users need to know when they're interacting with the machine."
+    },
+    {
+      "start": 401.5,
+      "end": 405.1,
+      "text": " So things like synthetic text, they need to be clearly labeled."
+    },
+    {
+      "start": 405.1,
+      "end": 407.7,
+      "text": " And it means data lineage."
+    },
+    {
+      "start": 407.7,
+      "end": 411.40000000000003,
+      "text": " You need to be able to summarize where your training data came from"
+    },
+    {
+      "start": 411.40000000000003,
+      "end": 414.5,
+      "text": " and prove you respected copyright opt-outs."
+    },
+    {
+      "start": 414.5,
+      "end": 419.9,
+      "text": " And just like how GDPR has shaped global privacy, not just folks in the EU,"
+    },
+    {
+      "start": 419.9,
+      "end": 425.1,
+      "text": " the EU AI Act will probably set the template for AI governance worldwide."
+    },
+    {
+      "start": 425.1,
+      "end": 426.2,
+      "text": " Wow, that's great."
+    },
+    {
+      "start": 426.2,
+      "end": 430.5,
+      "text": " And, you know, trend number six, right, it really changes everything,"
+    },
+    {
+      "start": 430.5,
+      "end": 433.4,
+      "text": " but it also changes nothing at the same time."
+    },
+    {
+      "start": 433.4,
+      "end": 438.2,
+      "text": " And now this is where we put in quantum utility everywhere."
+    },
+    {
+      "start": 438.2,
+      "end": 441.2,
+      "text": " So 2026 is where we start to see this quantum computing"
+    },
+    {
+      "start": 441.2,
+      "end": 445.9,
+      "text": " to reliably start solving real-world problems better, faster,"
+    },
+    {
+      "start": 445.9,
+      "end": 449.5,
+      "text": " or more efficiently than classical computing methods."
+    },
+    {
+      "start": 449.5,
+      "end": 452.4,
+      "text": " Now at this point, we have this quantum utility scale."
+    },
+    {
+      "start": 452.4,
+      "end": 455.5,
+      "text": " It's these systems that begin working alongside and together"
+    },
+    {
+      "start": 455.5,
+      "end": 460.7,
+      "text": " with classical infrastructure to deliver these practical value in everyday workflows."
+    },
+    {
+      "start": 460.7,
+      "end": 463.7,
+      "text": " Now this is going to help with optimization."
+    },
+    {
+      "start": 463.7,
+      "end": 467.8,
+      "text": " And then we'll also look at simulation and decision-making."
+    },
+    {
+      "start": 467.8,
+      "end": 471.09999999999997,
+      "text": " Now all three of these tasks were previously out of reach"
+    },
+    {
+      "start": 471.1,
+      "end": 472.90000000000003,
+      "text": " within the classical realm."
+    },
+    {
+      "start": 472.90000000000003,
+      "end": 475.40000000000003,
+      "text": " But this hybrid quantum classical error,"
+    },
+    {
+      "start": 475.40000000000003,
+      "end": 479.5,
+      "text": " it will begin to transform quantum computing into this mainstream paradigm"
+    },
+    {
+      "start": 479.5,
+      "end": 483.6,
+      "text": " as it's going to be woven into our everyday business operations."
+    },
+    {
+      "start": 483.6,
+      "end": 488.3,
+      "text": " Now my trend number seven is reasoning at the edge."
+    },
+    {
+      "start": 488.3,
+      "end": 491.40000000000003,
+      "text": " Now, last year we talked about very small models,"
+    },
+    {
+      "start": 491.40000000000003,
+      "end": 493.3,
+      "text": " models with just a few billion parameters"
+    },
+    {
+      "start": 493.3,
+      "end": 495.6,
+      "text": " that don't need huge data centers to run."
+    },
+    {
+      "start": 495.6,
+      "end": 498.40000000000003,
+      "text": " They work on your laptop or maybe even your phone."
+    },
+    {
+      "start": 498.40000000000003,
+      "end": 503.20000000000005,
+      "text": " Well, in 2026, those small models are learning to think."
+    },
+    {
+      "start": 503.20000000000005,
+      "end": 510.1,
+      "text": " So if we think about the best models that we have today, the frontier models,"
+    },
+    {
+      "start": 510.1,
+      "end": 516.1,
+      "text": " well, pretty much all of them now use something called inference time compute."
+    },
+    {
+      "start": 516.1,
+      "end": 520.0,
+      "text": " They spend extra time thinking before giving you an answer,"
+    },
+    {
+      "start": 520.0,
+      "end": 522.6,
+      "text": " working through problems step by step."
+    },
+    {
+      "start": 522.6,
+      "end": 526.6,
+      "text": " Now the trade-off for that is they need more compute."
+    },
+    {
+      "start": 526.7,
+      "end": 529.2,
+      "text": " But here's what's changing."
+    },
+    {
+      "start": 529.2,
+      "end": 533.2,
+      "text": " Essentially, teams have figured out how they can distill"
+    },
+    {
+      "start": 533.2,
+      "end": 539.8000000000001,
+      "text": " all of this reasoning information into smaller models."
+    },
+    {
+      "start": 539.8000000000001,
+      "end": 542.9,
+      "text": " So now these smaller models can perform thinking as well."
+    },
+    {
+      "start": 542.9,
+      "end": 549.2,
+      "text": " You're taking massive reasoning models that generate tons of step by step solutions"
+    },
+    {
+      "start": 549.2,
+      "end": 553.7,
+      "text": " and we're using that data to train the smaller models to reason the same way."
+    },
+    {
+      "start": 553.7,
+      "end": 558.5,
+      "text": " And that's resulting in reasoning models with only a few billion parameters."
+    },
+    {
+      "start": 558.5,
+      "end": 561.4000000000001,
+      "text": " They work offline, your data never leaves your device,"
+    },
+    {
+      "start": 561.4000000000001,
+      "end": 564.5,
+      "text": " and there's no round-trip latency to a data center."
+    },
+    {
+      "start": 564.5,
+      "end": 567.5,
+      "text": " So for anything that's real-time or mission-critical,"
+    },
+    {
+      "start": 567.5,
+      "end": 574.2,
+      "text": " having a model that can actually reason through a problem locally is a pretty big deal."
+    },
+    {
+      "start": 574.2,
+      "end": 576.1,
+      "text": " Yeah, so that's all very true, Martin."
+    },
+    {
+      "start": 576.1,
+      "end": 580.0,
+      "text": " But now our last and final trend is number eight."
+    },
+    {
+      "start": 580.0,
+      "end": 583.5,
+      "text": " So this is what we're calling amorphous hybrid computing."
+    },
+    {
+      "start": 583.5,
+      "end": 588.2,
+      "text": " So this is a future where both AI model topologies and the cloud infrastructure,"
+    },
+    {
+      "start": 588.2,
+      "end": 591.7,
+      "text": " they blend into what's called a fluid computing backbone."
+    },
+    {
+      "start": 591.7,
+      "end": 597.5,
+      "text": " So AI models, they're shifting beyond just this pure transformer design, right?"
+    },
+    {
+      "start": 597.5,
+      "end": 601.6,
+      "text": " They're beginning to evolve into these other architectures that integrate transformers"
+    },
+    {
+      "start": 601.6,
+      "end": 605.3,
+      "text": " and we call them the state space models."
+    },
+    {
+      "start": 605.3,
+      "end": 609.2,
+      "text": " And then in 2026, you're also going to see different emerging algorithms"
+    },
+    {
+      "start": 609.2,
+      "end": 615.5,
+      "text": " that would combine both the state space and transformers and other elements together, right?"
+    },
+    {
+      "start": 615.5,
+      "end": 619.0,
+      "text": " And that's going to be really fun to watch, very artful."
+    },
+    {
+      "start": 619.0,
+      "end": 622.7,
+      "text": " And then at the same time, we have this cloud computing piece"
+    },
+    {
+      "start": 622.7,
+      "end": 626.8000000000001,
+      "text": " that's becoming fully differentiated by combining many different chip types."
+    },
+    {
+      "start": 626.8000000000001,
+      "end": 633.3000000000001,
+      "text": " So we're going to have CPUs, GPUs, TPUs as well."
+    },
+    {
+      "start": 633.3000000000001,
+      "end": 638.8000000000001,
+      "text": " And finally, what we just talked about in trend six, quantum, we're going to have QPUs."
+    },
+    {
+      "start": 638.8000000000001,
+      "end": 644.0000000000001,
+      "text": " I did also want to mention a note that you'll see these neuromorphic chips that are coming out"
+    },
+    {
+      "start": 644.0000000000001,
+      "end": 646.0000000000001,
+      "text": " and those emulate the brain."
+    },
+    {
+      "start": 646.0000000000001,
+      "end": 650.8000000000001,
+      "text": " But all of these are going to be put together right into this unified compute environment"
+    },
+    {
+      "start": 650.8000000000001,
+      "end": 653.5000000000001,
+      "text": " where parts of each of these types of models,"
+    },
+    {
+      "start": 653.5000000000001,
+      "end": 657.4000000000001,
+      "text": " they're going to be automatically mapped to the optimal compute substrate."
+    },
+    {
+      "start": 657.4000000000001,
+      "end": 662.1,
+      "text": " And this is really going to help to deliver this maximum performance and efficiency."
+    },
+    {
+      "start": 662.1,
+      "end": 663.7,
+      "text": " And you know what? Who knows?"
+    },
+    {
+      "start": 663.7,
+      "end": 667.8000000000001,
+      "text": " But at this pace, probably not in 2026, but I think further out,"
+    },
+    {
+      "start": 667.8000000000001,
+      "end": 670.6,
+      "text": " you might see DNA computing entering into the mix."
+    },
+    {
+      "start": 670.6,
+      "end": 672.6,
+      "text": " Well, those are some lofty goals."
+    },
+    {
+      "start": 672.6,
+      "end": 678.6,
+      "text": " And look, these are what we think are some of the biggest AI trends in 2026."
+    },
+    {
+      "start": 678.6,
+      "end": 681.3000000000001,
+      "text": " But what are we missing?"
+    },
+    {
+      "start": 681.3000000000001,
+      "end": 686.1,
+      "text": " Which AI trend do you expect to be a big deal in 2026?"
+    },
+    {
+      "start": 686.1,
+      "end": 688.1,
+      "text": " Yeah, let us know in the comments below."
+    }
+  ]
+}

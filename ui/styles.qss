@@ -1,0 +1,159 @@
+/* =====================================================
+   GLOBAL BASE - BLACK THEME
+===================================================== */
+
+#CentralWidget {
+    background-color: #0A0A0A;
+}
+
+QMainWindow {
+    background-color: #0A0A0A;
+}
+
+QWidget {
+    background-color: #0A0A0A;
+    color: #E5E7EB;
+}
+
+/* =====================================================
+   HEADER / FOOTER
+===================================================== */
+#HeaderWidget,
+#FooterWidget {
+    background-color: #000000;
+    border: none;
+}
+
+/* =====================================================
+   LABELS & TEXT
+===================================================== */
+QLabel {
+    color: #E5E7EB;
+}
+
+QLabel[objectName="sectionTitle"] {
+    font-size: 16px;
+    font-weight: bold;
+    color: #F9FAFB;
+}
+
+/* =====================================================
+   BUTTONS
+===================================================== */
+QPushButton {
+    background-color: #2563EB;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 18px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: #1D4ED8;
+}
+
+QPushButton:pressed {
+    background-color: #1E40AF;
+}
+
+/* Back / secondary buttons */
+QPushButton#BackButton {
+    background-color: #1A1A1A;
+    border: 1px solid #2A2A2A;
+}
+
+/* =====================================================
+   CARDS / PANELS
+===================================================== */
+QFrame,
+QWidget#Card,
+QWidget#Panel {
+    background-color: #1A1A1A;
+    border-radius: 14px;
+}
+
+/* =====================================================
+   INPUTS (CHAT / NOTES / TASKS)
+===================================================== */
+QTextEdit,
+QLineEdit {
+    background-color: #1A1A1A;
+    color: #E5E7EB;
+    border: 1px solid #2A2A2A;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+QTextEdit:focus,
+QLineEdit:focus {
+    border: 2px solid #3B82F6;
+}
+
+QTextEdit::placeholder,
+QLineEdit::placeholder {
+    color: #6B7280;
+}
+
+/* =====================================================
+   CHAT SCROLL AREA
+===================================================== */
+QScrollArea {
+    background-color: transparent;
+    border: none;
+}
+
+QScrollBar:vertical {
+    background-color: #1A1A1A;
+    width: 8px;
+    border: none;
+}
+
+QScrollBar::handle:vertical {
+    background-color: #404040;
+    border-radius: 4px;
+    min-height: 24px;
+}
+
+QScrollBar::handle:vertical:hover {
+    background-color: #525252;
+}
+
+/* =====================================================
+   LISTS (TOPICS / TASKS)
+===================================================== */
+QListWidget {
+    background-color: #1A1A1A;
+    border: 1px solid #2A2A2A;
+    border-radius: 8px;
+}
+
+QListWidget::item {
+    padding: 10px;
+    color: #E5E7EB;
+}
+
+QListWidget::item:selected {
+    background-color: #1E40AF;
+    color: #FFFFFF;
+}
+
+/* =====================================================
+   TAB BUTTONS
+===================================================== */
+QPushButton#TabButton {
+    background-color: #1A1A1A;
+    border: 1px solid #2A2A2A;
+    color: #CBD5F5;
+    border-radius: 8px;
+}
+
+QPushButton#TabButton:checked {
+    background-color: #1E40AF;
+    color: #FFFFFF;
+}
+
+QWidget > QWidget {
+    background-color: transparent;
+}

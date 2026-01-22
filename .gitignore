@@ -1,0 +1,82 @@
+################################
+# Python
+################################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+################################
+# Virtual Environments
+################################
+venv/
+.venv/
+env/
+ENV/
+
+################################
+# PyInstaller
+################################
+build/
+dist/
+*.spec.bak
+
+# PyInstaller temp files
+*.toc
+*.pyz
+*.pkg
+base_library.zip
+warn-*.txt
+xref-*.html
+
+################################
+# Executables & binaries
+################################
+*.exe
+*.dll
+*.so
+*.dylib
+*.whl
+
+################################
+# ffmpeg & media
+################################
+ffmpeg-*/
+ffmpeg/
+*.mp4
+*.wav
+*.mp3
+
+################################
+# Project-generated data
+################################
+backend/data/audio/
+backend/data/videos/
+backend/data/lessons/
+backend/data/**/*.json
+
+################################
+# Logs & cache
+################################
+*.log
+.cache/
+.pytest_cache/
+
+################################
+# OS junk
+################################
+.DS_Store
+Thumbs.db
+desktop.ini
+
+################################
+# IDEs
+################################
+.vscode/
+.idea/
+*.swp
+
+################################
+# Claude / AI tooling
+################################
+.claude/
